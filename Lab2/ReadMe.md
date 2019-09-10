@@ -14,3 +14,4 @@ The NAND gate is opposite to the AND gate.
 # IEEE- Ethically Alligned Design
 IEEE is a service dedicated to advancing innovation and technology. The importance of ethics in device design is device design works with clients and colleagues. You have to be accountable for your planning and conceiving.
 # Data Representation
+Numeric Conversions. Decimal is numbers that we use, Base 10. Binary is the conversion that we use to turn a decimal into. Computers read in binary. Hexadecimal is Binary and letters. 0123456789ABCDEF.
