@@ -8,3 +8,5 @@ Virtualization lets you use your servers to do more tasks than you could before.
 # Python
 The pseudo-code meaning behind Python is to concentrate on the solution to the problem rather than the language itself.
 An interpreted language is a program in a language like C or C++, converted from language C or C++ into a language that is binary for the computer to read, using a compiler with various flags and options. Python you just run the source directly from the code.
+# Career Exploration
+# College Central
